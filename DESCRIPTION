@@ -1,0 +1,11 @@
+Package: pivotviewR
+Type: Package
+Title: pivotviewR: R htmlwidget for pivotviewer.js
+Version: 0.1.0
+Author: Mark Hayden
+Maintainer: Mark Hayden <mark.hayden@adroll.com>
+Description: pivotviewer is a javascript package for
+  visualizing image datasets.
+License: GNU GPL (>= 2)
+LazyData: TRUE
+RoxygenNote: 5.0.1
